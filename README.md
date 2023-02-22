@@ -67,3 +67,9 @@
 <h2> Perfiles de los clientes:</h2>
 
 ![Captura de pantalla 2023-02-22 a las 21 14 38](https://user-images.githubusercontent.com/122131317/220748786-730cd522-dbbc-4c78-b98c-bc5b221028c6.png)
+
+<h2 style="text-align:center;">Esperamos que te haya gustado!! 😄</h2>
+
+## Autores: 
+<p>Marta Búa Fernández ➡️ Ir al perfil de<a href="https://www.linkedin.com/in/martabuaf" target = "_blank"> LinkedIn </a></p> 
+<p>Laura Arufe Jorge ➡️ Ir al perfil de<a href="https://www.linkedin.com/in/laura-arufe-aab862247" target = "_blank"> LinkedIn </a></p>
