@@ -1,5 +1,7 @@
 # Segmentación de bases de clientes
 
+![Captura de pantalla 2023-02-22 a las 21 13 00](https://user-images.githubusercontent.com/122131317/220748769-d78ab969-5fbc-4e8b-be2d-d39dee93bcc5.png)
+
 <h3>Resumen:</h3>
 <p>En este proyecto, llevaremos a cabo la agrupación no supervisada de datos sobre los registros de clientes de la base de datos de una empresa de comestibles.</p>
 <p>La segmentación de clientes es la práctica de separar a los clientes en grupos según sus similitudes y diferencias. Dividiremos a los clientes en grupos para resaltar las características más importantes de cada segmento y modificar los productos en función de las distintas necesidades y comportamientos de los clientes.</p>
@@ -63,7 +65,5 @@
 </div>
 
 <h2> Perfiles de los clientes:</h2>
-
-![Captura de pantalla 2023-02-22 a las 21 13 00](https://user-images.githubusercontent.com/122131317/220748769-d78ab969-5fbc-4e8b-be2d-d39dee93bcc5.png)
 
 ![Captura de pantalla 2023-02-22 a las 21 14 38](https://user-images.githubusercontent.com/122131317/220748786-730cd522-dbbc-4c78-b98c-bc5b221028c6.png)
