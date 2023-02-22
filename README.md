@@ -66,6 +66,8 @@
 
 <h2> Perfiles de los clientes:</h2>
 
+![atributos_clusters](https://user-images.githubusercontent.com/122131317/220757311-c979a69c-560d-40f6-b7da-f7c33edcae30.png)
+
 ![Captura de pantalla 2023-02-22 a las 21 14 38](https://user-images.githubusercontent.com/122131317/220748786-730cd522-dbbc-4c78-b98c-bc5b221028c6.png)
 
 <h2 style="text-align:center;">Esperamos que te haya gustado!! 😄</h2>
