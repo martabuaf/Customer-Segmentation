@@ -18,7 +18,7 @@
 <h3>Paso 5: Evaluación de los resultados</h3> 
 <p>Tras la evaluación de los distintos métodos, nos centraremos en el que mejor resultados nos aporta para nuestro fin. Representaremos los datos resultantes de la agrupación para cada una de las variables que componen el DataFrame original.</p>
 <h3>Paso 6: Conclusiones</h3> 
-<p>Una vez interpretados los resultados, definiremos las características más relevanets que componen cada uno de los grupos.</p>
+<p>Una vez interpretados los resultados, definiremos las características más relevantes que componen cada uno de los grupos.</p>
 
 <div>
 <h4 style = "text-align: center;">Información sobre el contenido del dataset</h4>
